@@ -38,4 +38,14 @@ It can be used as a smart traffic violation detection system for road safety mon
 ## How to Run
 
 ```bash
-git clone
+git clone https://github.com/your-username/Helmet-speed-detection.git
+cd Helmet-speed-detection
+pip install -r requirements.txt
+python main.py
+```
+
+---
+
+## Applications
+
+Traffic surveillance, road safety monitoring, and automated violation detection.
