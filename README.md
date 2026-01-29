@@ -18,11 +18,12 @@ It can be used as a smart traffic violation detection system for road safety mon
 
 ## Tech Stack
 
-- Python  
-- YOLO  
-- OpenCV  
-- NumPy  
-
+- **Python**  
+- **YOLO**  
+- **OpenCV**  
+- **PaddleOCR**  
+- **SQLite**  
+- **Base64**  
 ---
 
 ## How It Works
